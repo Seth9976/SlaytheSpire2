@@ -1,0 +1,9 @@
+{
+  "TO_DISCARD": "[gold]捨てる[/gold]カードを{Amount:plural:1枚|[blue]{}[/blue]枚}選択",
+  "TO_ENCHANT": "[purple]エンチャント[/purple]するカードを{Amount:plural:1枚|[blue]{}[/blue]枚}選択",
+  "TO_EXHAUST": "[gold]廃棄[/gold]するカードを{Amount:plural:1枚|[blue]{}[/blue]枚}選択",
+  "TO_REMOVE": "[gold]削除[/gold]するカードを{Amount:plural:1枚|[blue]{}[/blue]枚}選択",
+  "TO_TRANSFORM": "[gold]変化[/gold]させるカードを{Amount:plural:1枚|[blue]{}[/blue]枚}選択",
+  "TO_UPGRADE": "[gold]アップグレード[/gold]するカードを{Amount:plural:1枚|[blue]{}[/blue]枚}選択",
+  "VIEW_UPGRADES": "アップグレード版の確認"
+}
