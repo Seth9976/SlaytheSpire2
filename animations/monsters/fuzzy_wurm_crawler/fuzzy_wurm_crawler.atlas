@@ -1,0 +1,58 @@
+fuzzy_wurm_crawler.png
+size:414,268
+filter:Linear,Linear
+scale:0.35
+acid shine
+bounds:248,108,20,6
+rotate:90
+acid wad
+bounds:371,15,46,23
+offsets:1,0,63,23
+rotate:90
+bod
+bounds:257,137,90,70
+feather bottom 1
+bounds:378,148,40,21
+rotate:90
+feather bottom 2
+bounds:396,13,48,15
+rotate:90
+feather top 1
+bounds:319,21,50,40
+feather top 2
+bounds:349,124,83,27
+rotate:90
+fur 1
+bounds:2,126,124,99
+fur 2
+bounds:128,130,127,95
+fur 3
+bounds:2,57,139,67
+fur 3 annex
+bounds:181,15,60,35
+furt 2 twip
+bounds:378,190,50,21
+rotate:90
+hair flail
+bounds:262,209,57,112
+rotate:90
+hair tuft
+bounds:2,2,114,53
+loaded_acid
+bounds:376,242,36,24
+mouth
+bounds:257,68,81,67
+mouth back
+bounds:340,63,71,59
+shadow
+bounds:2,227,258,39
+teeth
+bounds:248,15,69,51
+teeth2
+bounds:118,2,61,48
+offsets:0,0,61,49
+vapor ring
+bounds:143,52,103,76
+offsets:1,1,105,79
+whisker
+bounds:319,15,21,4

@@ -1,0 +1,78 @@
+phrog_parasite.png
+size:2018,1922
+filter:Linear,Linear
+back foot
+bounds:1228,260,471,749
+rotate:90
+backmost foot
+bounds:1306,745,176,376
+bod
+bounds:301,733,1187,1003
+rotate:90
+eyes worm
+bounds:350,7,283,244
+offsets:27,0,310,244
+rotate:90
+front arm
+bounds:301,338,393,393
+hole1
+bounds:1791,2,187,154
+hole2
+bounds:1882,1123,88,171
+mouth worm
+bounds:690,56,280,526
+rotate:90
+pustule 1
+bounds:1657,1112,189,179
+offsets:0,0,189,194
+pustule 2
+bounds:1882,1296,117,101
+offsets:1,0,118,102
+pustule 3
+bounds:1882,1399,121,104
+pustule 4
+bounds:301,292,61,44
+offsets:1,1,63,46
+pustule 5
+bounds:1622,25,233,167
+rotate:90
+pustule 6
+bounds:1882,1505,121,168
+shadow
+bounds:2,291,1629,297
+offsets:1,1,1631,299
+rotate:90
+worm 1
+bounds:2,4,285,346
+offsets:0,1,287,347
+rotate:90
+worm 10
+bounds:1493,20,127,238
+offsets:0,0,127,239
+worm 2
+bounds:596,22,314,92
+offsets:0,7,315,104
+rotate:90
+worm 3
+bounds:1306,1137,349,154
+worm 4
+bounds:1306,1293,380,574
+offsets:6,1,386,576
+rotate:90
+worm 5
+bounds:1484,836,274,480
+rotate:90
+worm 6
+bounds:1306,1675,245,672
+rotate:90
+worm 7
+bounds:696,350,381,530
+offsets:0,6,384,536
+rotate:90
+worm 8
+bounds:1218,15,243,273
+rotate:90
+worm 9
+bounds:1791,158,100,225
+offsets:0,1,100,226
+rotate:90

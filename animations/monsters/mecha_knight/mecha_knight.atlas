@@ -1,0 +1,178 @@
+mecha_knight.png
+size:1918,777
+filter:Linear,Linear
+scale:0.3
+Thumb_r
+bounds:238,85,43,48
+offsets:2,0,45,48
+back tube
+bounds:161,2,79,139
+rotate:90
+bod_back
+bounds:1244,492,283,177
+rotate:90
+bod_collar
+bounds:1150,489,286,92
+rotate:90
+bod_front
+bounds:879,449,326,269
+offsets:0,0,326,273
+rotate:90
+dude
+bounds:1444,463,103,69
+offsets:0,0,103,83
+rotate:90
+dude_l_lower
+bounds:1278,218,24,24
+dude_r_lower
+bounds:1418,463,27,24
+rotate:90
+flamethrower
+bounds:1656,474,72,104
+rotate:90
+hand_l
+bounds:378,138,23,37
+hand_r
+bounds:354,137,22,38
+offsets:1,0,23,38
+head
+bounds:452,94,81,71
+rotate:90
+head update
+bounds:1674,314,91,86
+rotate:90
+hips
+bounds:405,3,119,83
+index_r
+bounds:1150,452,35,56
+rotate:90
+index_r_2
+bounds:1262,460,30,79
+rotate:90
+l arm bottom
+bounds:970,4,118,184
+offsets:1,0,119,184
+l arm top
+bounds:1761,180,62,139
+rotate:90
+l elbow
+bounds:1656,407,104,65
+l foot
+bounds:1423,568,207,118
+rotate:90
+l hand
+bounds:1515,464,139,102
+offsets:0,0,143,102
+l hip
+bounds:526,2,173,172
+rotate:90
+l knee bottom
+bounds:1429,207,44,59
+rotate:90
+l knee top
+bounds:1544,396,110,66
+offsets:3,0,113,73
+l leg bottom
+bounds:1090,4,170,196
+l leg top
+bounds:1642,614,121,161
+l shoulder
+bounds:879,190,176,257
+offsets:9,0,185,257
+l wires
+bounds:283,88,45,167
+rotate:90
+middle_r
+bounds:1860,40,52,75
+middle_r_2
+bounds:1343,460,30,73
+rotate:90
+mouth
+bounds:428,152,23,13
+rotate:90
+mouth update
+bounds:403,146,29,23
+rotate:90
+orb
+bounds:1699,548,64,64
+orb_box
+bounds:1762,370,141,126
+orb_box_hood
+bounds:1762,244,140,124
+offsets:1,2,141,126
+orb_glow
+bounds:1768,47,66,66
+propellant tank
+bounds:1657,11,119,109
+rotate:90
+r arm bottom
+bounds:1429,253,113,208
+r arm top
+bounds:1674,212,85,100
+r elbow
+bounds:1768,115,90,63
+r elbow bottom
+bounds:177,85,48,59
+offsets:0,0,48,60
+rotate:90
+r foot
+bounds:1765,616,159,147
+rotate:90
+r hand
+bounds:1860,117,61,56
+rotate:90
+r hip
+bounds:700,2,173,172
+rotate:90
+r knee bottom
+bounds:1490,207,44,59
+rotate:90
+r knee top
+bounds:1557,139,110,66
+offsets:0,0,113,73
+r leg bottom
+bounds:1262,4,170,196
+r leg top
+bounds:1551,207,121,161
+r shoulder
+bounds:1057,202,219,245
+offsets:0,0,220,245
+r wires
+bounds:874,2,94,173
+shadow
+bounds:2,83,692,173
+offsets:3,0,696,174
+rotate:90
+slash
+bounds:354,177,523,598
+offsets:0,7,524,605
+sword
+bounds:177,135,175,640
+offsets:0,0,175,641
+sword tip
+bounds:2,2,79,157
+offsets:0,0,79,162
+rotate:90
+thumb_r_2
+bounds:1642,568,55,44
+offsets:47,8,102,52
+thumb_r_3
+bounds:1208,452,52,35
+tube back
+bounds:1434,13,121,192
+tube caps
+bounds:1278,244,149,214
+tube front
+bounds:1543,584,97,191
+offsets:0,1,97,193
+tubes
+bounds:1674,132,81,78
+waist
+bounds:1765,498,142,116
+zzzt1
+bounds:302,2,101,84
+offsets:2,2,105,87
+zzzt2
+bounds:1557,5,132,98
+offsets:0,1,132,100
+rotate:90

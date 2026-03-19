@@ -1,0 +1,133 @@
+amalgam.png
+size:2017,1517
+filter:Linear,Linear
+scale:0.6
+arm 1 base
+bounds:1098,213,299,260
+arm 1 lower
+bounds:1868,1342,131,173
+offsets:2,2,133,175
+arm 1 upper
+bounds:1909,731,211,87
+offsets:1,0,212,87
+rotate:90
+arm 2 base
+bounds:1225,916,362,424
+arm 2 lower
+bounds:1861,290,131,111
+offsets:1,0,132,111
+rotate:90
+arm 2 upper
+bounds:2,5,196,419
+rotate:90
+arm 3 base
+bounds:1399,192,281,206
+offsets:0,3,281,209
+rotate:90
+arm 3 lower
+bounds:825,244,289,271
+rotate:90
+arm 3 upper
+bounds:1701,634,76,207
+rotate:90
+beam_base
+bounds:1910,638,91,61
+rotate:90
+bod
+bounds:2,203,536,657
+foot 1
+bounds:423,16,185,68
+rotate:90
+foot 3
+bounds:1719,209,133,75
+foot2
+bounds:1107,565,261,113
+rotate:90
+glare
+bounds:2,862,707,653
+offsets:72,59,859,802
+laser_base
+bounds:711,828,512,512
+offsets:17,17,546,546
+leg 1 base
+bounds:1806,1122,209,218
+leg 1 lower
+bounds:1607,192,110,233
+offsets:0,0,110,234
+leg 1 upper
+bounds:831,32,210,250
+offsets:4,0,214,250
+rotate:90
+leg 2 base
+bounds:540,12,289,221
+offsets:1,0,290,223
+leg 2 lower
+bounds:1589,951,215,389
+offsets:0,0,215,391
+leg 3 lower
+bounds:1222,475,198,319
+offsets:3,0,201,319
+rotate:90
+leg 3 upper
+bounds:1225,675,340,239
+offsets:2,0,342,241
+shadow
+bounds:711,1342,1155,173
+offsets:8,4,1178,179
+string 1
+bounds:2001,1397,14,118
+string 2
+bounds:540,847,13,121
+rotate:90
+string 3
+bounds:1107,548,15,70
+rotate:90
+string 3 bowed
+bounds:493,13,38,188
+toe 3
+bounds:1866,89,89,66
+offsets:0,1,89,67
+torch 1 bleed
+bounds:1866,157,104,131
+offsets:2,4,107,137
+torch 1 front
+bounds:1567,649,132,265
+offsets:16,1,168,268
+torch 1 orb
+bounds:1543,508,140,139
+torch 2 back
+bounds:1685,427,216,205
+offsets:0,0,218,206
+torch 2 front
+bounds:540,524,278,302
+offsets:1,1,279,304
+torch 2 orb
+bounds:1719,286,140,139
+torch 3 back
+bounds:1903,423,62,209
+offsets:0,4,62,213
+torch 3 bleed
+bounds:1736,75,132,128
+offsets:3,4,139,136
+rotate:90
+torch 3 front
+bounds:1701,712,206,230
+offsets:0,1,206,236
+torch 3 middle
+bounds:540,235,283,287
+offsets:1,1,284,289
+torch 3 orb
+bounds:1595,50,140,139
+rotate:90
+torch1 bottom
+bounds:1806,944,209,176
+offsets:1,0,211,176
+torch1 middle
+bounds:820,535,285,291
+offsets:1,0,286,292
+wahoosh
+bounds:1386,2,188,207
+offsets:0,1,188,209
+rotate:90
+zurp
+bounds:1083,36,301,175

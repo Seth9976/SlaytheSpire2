@@ -1,0 +1,111 @@
+owl_magistrate.png
+size:2016,1979
+filter:Linear,Linear
+scale:0.36
+back armor
+bounds:1596,1555,238,394
+rotate:90
+back armor 2
+bounds:610,994,330,418
+offsets:0,0,331,418
+rotate:90
+beak
+bounds:178,1912,65,118
+rotate:90
+body armor bottom
+bounds:2,1699,211,221
+rotate:90
+body armor top
+bounds:498,1626,215,496
+offsets:38,0,253,496
+rotate:90
+eyes
+bounds:457,1887,129,90
+offsets:0,4,167,94
+foot bottom
+bounds:1385,1812,238,165
+foot top
+bounds:2,1419,252,280
+rotate:90
+head
+bounds:713,1326,259,343
+rotate:90
+helmet
+bounds:1058,1284,296,417
+rotate:90
+helmet 2
+bounds:996,1587,227,296
+rotate:90
+helmet 3
+bounds:225,1673,212,271
+rotate:90
+leg bottom
+bounds:1294,1582,228,300
+rotate:90
+leg top
+bounds:2,699,358,367
+rotate:90
+neck
+bounds:2,155,529,465
+peck1
+bounds:1061,1827,150,150
+offsets:0,1,150,151
+peck2
+bounds:1213,1816,170,161
+profile_beak_bottom
+bounds:98,1913,64,78
+offsets:0,8,64,86
+rotate:90
+profile_beak_top
+bounds:298,1911,66,157
+offsets:22,1,100,158
+rotate:90
+profile_eye
+bounds:2,1932,45,94
+rotate:90
+profile_head
+bounds:1625,1795,182,301
+rotate:90
+profile_helmet
+bounds:1466,893,334,465
+rotate:90
+profile_helmet_bottom
+bounds:588,1843,134,471
+offsets:1,0,135,471
+rotate:90
+shadow
+bounds:371,622,1141,269
+offsets:1,0,1143,269
+shockwave
+bounds:533,131,489,682
+offsets:0,0,489,683
+rotate:90
+wing top 2
+bounds:1477,1229,430,324
+offsets:0,122,430,446
+wing top lighter
+bounds:1217,2,606,517
+offsets:0,0,606,698
+wing_bottom_raised
+bounds:284,1369,427,255
+wing_bottom_raised_2
+bounds:1030,928,434,354
+offsets:0,0,441,357
+wing_top_raised
+bounds:2,1059,606,308
+wing_top_raised_2
+bounds:1514,521,500,370
+
+owl_magistrate_2.png
+size:1794,610
+filter:Linear,Linear
+scale:0.36
+bod
+bounds:643,24,630,584
+offsets:0,1,630,585
+tail
+bounds:2,10,639,598
+wing top
+bounds:1275,2,606,517
+offsets:0,0,606,698
+rotate:90

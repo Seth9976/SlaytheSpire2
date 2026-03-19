@@ -1,0 +1,17 @@
+rockstone.png
+size:526,292
+filter:Linear,Linear
+rock
+bounds:2,2,287,288
+offsets:1,1,289,290
+stone1
+bounds:409,4,115,159
+offsets:1,1,117,161
+stone2
+bounds:291,165,125,159
+offsets:2,1,128,161
+rotate:90
+stone3
+bounds:291,5,158,116
+offsets:1,1,160,119
+rotate:90

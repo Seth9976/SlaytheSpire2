@@ -1,0 +1,56 @@
+bygone_effigy.png
+size:1786,1159
+filter:Linear,Linear
+scale:0.5
+attack arms
+bounds:556,49,286,246
+offsets:0,2,286,248
+rotate:90
+attack bod
+bounds:1545,2,195,226
+attack fabric
+bounds:1311,75,335,155
+rotate:90
+attack head
+bounds:1550,653,115,126
+offsets:1,0,116,126
+rotate:90
+attack legs
+bounds:2,22,552,313
+offsets:0,0,556,313
+attack scythe
+bounds:782,770,897,387
+offsets:1,1,898,389
+attack shadow
+bounds:1681,532,625,78
+offsets:1,0,627,79
+rotate:90
+attack_pedestal
+bounds:1550,230,300,234
+rotate:90
+blur_v1
+bounds:2,337,778,820
+bod
+bounds:782,412,356,766
+offsets:0,1,356,767
+rotate:90
+crumb1
+bounds:556,27,20,20
+eyes
+bounds:2,11,33,9
+head
+bounds:1550,540,88,111
+l arm
+bounds:843,22,388,466
+rotate:90
+l hand
+bounds:782,338,59,72
+offsets:0,0,60,73
+r hand
+bounds:1311,11,62,55
+offsets:0,0,67,55
+rotate:90
+shadow
+bounds:1468,50,360,75
+offsets:14,2,382,79
+rotate:90

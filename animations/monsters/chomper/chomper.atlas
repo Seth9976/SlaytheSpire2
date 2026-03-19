@@ -1,0 +1,104 @@
+chomper.png
+size:569,142
+filter:Linear,Linear
+scale:0.3
+bottom back foot
+bounds:535,103,31,16
+bottom back leg 1
+bounds:2,2,35,29
+bottom back leg 2
+bounds:404,45,23,18
+rotate:90
+bottom front foot
+bounds:495,109,31,16
+rotate:90
+bottom front leg 1
+bounds:108,2,35,30
+rotate:90
+bottom front leg 2
+bounds:513,4,23,18
+rotate:90
+bottom middle foot
+bounds:347,43,24,11
+rotate:90
+bottom middle leg 1
+bounds:535,36,29,29
+bottom middle leg 2
+bounds:311,43,16,24
+bottom wing
+bounds:230,49,91,55
+rotate:90
+cable_stretch
+bounds:469,5,42,11
+eye
+bounds:360,43,25,26
+rotate:90
+head bottom
+bounds:187,44,96,41
+rotate:90
+head bottom mouth
+bounds:82,39,101,41
+offsets:2,0,103,41
+rotate:90
+head top
+bounds:2,33,107,78
+rotate:90
+orb
+bounds:357,70,70,67
+rotate:90
+orb shine 1
+bounds:535,121,32,19
+orb shine 2
+bounds:469,18,20,53
+orb_add_glow
+bounds:426,73,67,67
+offsets:1,0,68,68
+orb_cracked
+bounds:287,69,68,71
+orb_glow_shapes
+bounds:491,29,42,42
+offsets:1,4,45,50
+orbc crackz
+bounds:424,7,43,61
+shadow
+bounds:140,2,185,39
+offsets:1,0,191,39
+shard
+bounds:287,43,22,24
+top back foot
+bounds:535,85,31,16
+top back leg 1
+bounds:39,2,35,29
+top back leg 2
+bounds:533,4,23,18
+rotate:90
+top front foot
+bounds:535,67,31,16
+top front leg 1
+bounds:354,6,35,30
+rotate:90
+top front leg 2
+bounds:514,117,23,18
+rotate:90
+top middle foot
+bounds:388,43,25,14
+rotate:90
+top middle leg 1
+bounds:76,2,30,29
+top middle leg 2
+bounds:329,43,16,24
+top wing
+bounds:125,43,97,60
+rotate:90
+wire 1
+bounds:386,6,35,22
+rotate:90
+wire 2
+bounds:495,73,28,17
+rotate:90
+wire 3
+bounds:327,3,38,25
+rotate:90
+wire 4
+bounds:410,8,35,10
+rotate:90

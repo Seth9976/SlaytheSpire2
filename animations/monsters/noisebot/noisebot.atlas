@@ -1,0 +1,27 @@
+noisebot.png
+size:286,134
+filter:Linear,Linear
+scale:0.15
+SPEAKER
+bounds:224,6,62,60
+rotate:90
+SPEAKER 2
+bounds:224,70,62,60
+rotate:90
+bod
+bounds:2,19,69,71
+ditch line
+bounds:2,3,196,14
+eye
+bounds:200,2,20,21
+orbs
+bounds:2,92,152,40
+offsets:1,0,155,41
+wave
+bounds:156,101,31,65
+rotate:90
+wing bottom
+bounds:73,31,82,59
+wing top
+bounds:157,25,74,65
+rotate:90

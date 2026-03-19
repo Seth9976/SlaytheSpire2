@@ -1,0 +1,64 @@
+living_smog.png
+size:539,671
+filter:Linear,Linear
+scale:0.6
+eyes
+bounds:164,20,100,157
+rotate:90
+head_base
+bounds:412,509,125,160
+head_base_back  copy
+bounds:500,14,37,102
+offsets:0,0,38,102
+head_base_top
+bounds:2,2,121,160
+rotate:90
+mouth_bottom Copy
+bounds:323,11,64,109
+teeth_bottom
+bounds:389,8,50,109
+rotate:90
+teeth_top
+bounds:389,60,56,109
+offsets:0,1,56,111
+rotate:90
+zap 2-1
+bounds:402,118,134,189
+offsets:53,17,239,216
+zap 2-2
+bounds:204,255,131,196
+offsets:53,13,239,216
+rotate:90
+zap 2-3
+bounds:2,125,129,196
+offsets:55,12,239,216
+rotate:90
+zap 2-4
+bounds:2,256,131,200
+offsets:55,10,239,216
+rotate:90
+zap 2-5
+bounds:408,309,129,198
+offsets:56,11,239,216
+zap1-1
+bounds:200,122,193,131
+offsets:25,67,239,216
+zap1-2
+bounds:2,530,204,139
+offsets:16,62,239,216
+zap1-3
+bounds:206,388,200,139
+offsets:18,61,239,216
+zap1-4
+bounds:2,389,202,139
+offsets:17,61,239,216
+zap1-5
+bounds:208,529,202,140
+offsets:17,61,239,216
+
+living_smog_2.png
+size:72,168
+filter:Linear,Linear
+scale:0.6
+smokeTex/smoke_tex
+bounds:2,2,68,164

@@ -1,0 +1,116 @@
+shrinker_beetle.png
+size:634,1032
+filter:Linear,Linear
+scale:0.75
+bod
+bounds:2,655,375,215
+rotate:90
+bod_death
+bounds:2,278,375,215
+rotate:90
+bottom antennea
+bounds:2,3,9,306
+rotate:90
+top antennea
+bounds:2,3,9,306
+rotate:90
+bottom back_foot
+bounds:480,374,45,15
+offsets:74,0,119,29
+bottom front leg
+bounds:529,794,68,49
+offsets:0,1,68,50
+rotate:90
+bottom left leg
+bounds:588,235,41,57
+offsets:0,1,41,58
+bottom pincher
+bounds:577,294,39,52
+offsets:1,0,40,52
+bottom pincher_death
+bounds:588,181,39,52
+offsets:1,0,40,52
+bottom right leg
+bounds:529,780,12,55
+offsets:1,0,13,55
+rotate:90
+bottom_front_Foot
+bounds:524,2,98,17
+offsets:0,4,228,21
+bottom_middle_foot
+bounds:588,166,36,13
+offsets:0,0,47,30
+eye 2
+bounds:420,377,58,53
+offsets:1,0,59,53
+eye 3
+bounds:480,391,58,53
+offsets:0,0,59,53
+glowy bits
+bounds:219,291,81,356
+rotate:90
+glowy bits copy
+bounds:219,374,81,356
+head
+bounds:2,14,150,175
+rotate:90
+head_death
+bounds:179,14,150,175
+rotate:90
+neck
+bounds:356,7,72,166
+offsets:1,0,73,166
+rotate:90
+neck_death
+bounds:529,864,72,166
+offsets:1,0,73,166
+shadow
+bounds:2,166,550,110
+offsets:1,1,552,112
+top foot 1
+bounds:618,294,52,14
+rotate:90
+top foot 2
+bounds:540,402,42,23
+offsets:1,0,43,23
+rotate:90
+top foot 3
+bounds:607,108,56,22
+rotate:90
+top leg 1
+bounds:356,81,149,83
+top leg 2 lower
+bounds:577,348,41,96
+offsets:1,0,42,97
+top leg 2 upper
+bounds:524,21,59,108
+offsets:1,0,61,108
+rotate:90
+top leg 3 lower
+bounds:554,171,32,118
+offsets:0,1,32,119
+top leg 3 upper
+bounds:507,82,82,98
+rotate:90
+top pincher
+bounds:302,375,57,55
+offsets:1,0,59,55
+top pincher_death
+bounds:361,375,57,55
+offsets:1,0,59,55
+wings 2
+bounds:392,739,291,135
+offsets:0,8,296,143
+rotate:90
+wings 2_death
+bounds:475,446,291,135
+offsets:0,8,296,143
+rotate:90
+wings1
+bounds:219,732,298,171
+offsets:0,0,305,188
+rotate:90
+wings1_death
+bounds:302,432,298,171
+offsets:0,0,305,188
+rotate:90

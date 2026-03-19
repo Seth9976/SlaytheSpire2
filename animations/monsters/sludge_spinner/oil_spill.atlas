@@ -1,0 +1,82 @@
+oil_spill.png
+size:1033,396
+filter:Linear,Linear
+scale:0.6
+death blob b
+bounds:881,73,40,88
+death glob a
+bounds:881,8,50,63
+offsets:4,1,54,64
+death glob c
+bounds:730,41,90,120
+death glob d
+bounds:995,228,32,166
+offsets:1,0,33,166
+death glob e
+bounds:717,284,64,198
+rotate:90
+death puddle
+bounds:2,46,317,78
+offsets:1,1,319,79
+eye
+bounds:976,81,52,55
+offsets:0,1,53,57
+rotate:90
+eye shine
+bounds:730,2,40,37
+oil blob 1
+bounds:952,104,50,22
+rotate:90
+oil blob 2
+bounds:923,98,56,27
+offsets:1,0,57,27
+rotate:90
+oil blob 3
+bounds:772,10,29,29
+oil blob 4
+bounds:917,329,19,16
+offsets:0,0,19,17
+rotate:90
+oil blob 5
+bounds:246,21,62,23
+oil in mouth
+bounds:717,163,123,119
+oil strand 1
+bounds:715,350,265,44
+oil strand 2
+bounds:2,15,242,29
+oil strand 3
+bounds:995,135,91,24
+rotate:90
+oil strand 4
+bounds:431,327,282,67
+oil strand 5
+bounds:976,136,212,17
+rotate:90
+shadow
+bounds:935,156,192,39
+offsets:1,0,194,44
+rotate:90
+shel jaw top
+bounds:822,7,154,57
+offsets:0,0,154,58
+rotate:90
+shell 1
+bounds:321,2,122,119
+offsets:4,0,126,119
+rotate:90
+shell 2
+bounds:598,9,130,144
+shell 3
+bounds:431,172,166,153
+offsets:0,1,166,161
+shell 4
+bounds:442,7,154,163
+shell 5
+bounds:599,155,170,116
+rotate:90
+shell jaw bottom
+bounds:842,163,91,119
+skitter_blur
+bounds:2,126,427,268
+offsets:2,1,429,269

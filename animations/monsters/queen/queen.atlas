@@ -1,0 +1,127 @@
+false_queen.png
+size:1420,1546
+filter:Linear,Linear
+scale:0.27
+back arm lower
+bounds:608,1051,105,248
+offsets:0,0,105,261
+rotate:90
+back wrist
+bounds:1363,1489,55,55
+back_arm_upper
+bounds:1052,403,82,205
+rotate:90
+bottom coat layer
+bounds:873,870,488,674
+chain
+bounds:1363,1387,100,45
+rotate:90
+cloak back
+bounds:827,487,282,582
+rotate:90
+crown
+bounds:1052,227,86,165
+rotate:90
+death_ghost
+bounds:163,165,662,747
+offsets:0,0,667,747
+gem_shine
+bounds:608,924,246,125
+glow_hand_1
+bounds:1219,231,80,126
+offsets:2,1,83,129
+rotate:90
+glow_hand_2
+bounds:301,15,148,87
+offsets:2,2,152,90
+rotate:90
+hand 1
+bounds:925,2,76,125
+offsets:1,0,78,125
+rotate:90
+hand 10
+bounds:614,27,96,136
+offsets:0,0,97,136
+hand 2
+bounds:1259,313,100,126
+offsets:0,0,103,126
+rotate:90
+hand 3
+bounds:1130,118,82,107
+offsets:1,0,83,107
+hand 4
+bounds:1130,4,112,107
+offsets:0,0,114,107
+rotate:90
+hand 5
+bounds:1239,32,97,119
+hand 6
+bounds:163,11,67,152
+hand 8
+bounds:1052,315,86,169
+offsets:0,0,86,174
+rotate:90
+hand 9
+bounds:827,310,87,175
+offsets:3,0,90,179
+hand a
+bounds:232,11,67,152
+hand b
+bounds:545,26,67,137
+offsets:2,0,69,137
+hand c
+bounds:1052,31,76,120
+offsets:1,0,78,125
+hand d
+bounds:1219,153,76,125
+offsets:1,0,78,125
+rotate:90
+hand e
+bounds:462,19,144,81
+offsets:0,0,147,82
+rotate:90
+hand l bottom
+bounds:1347,250,61,67
+offsets:3,0,64,67
+rotate:90
+hand l top
+bounds:827,169,62,71
+offsets:0,0,66,71
+hand7
+bounds:390,18,70,145
+offsets:0,0,70,152
+head scarf
+bounds:712,33,130,211
+rotate:90
+head void
+bounds:1259,415,70,127
+rotate:90
+scarf
+bounds:1363,1058,217,39
+rotate:90
+shadow
+bounds:827,771,588,97
+offsets:1,1,589,98
+shoulders
+bounds:608,1158,203,255
+rotate:90
+sleeve L
+bounds:1363,919,39,137
+slleeve R
+bounds:827,242,84,66
+staff
+bounds:2,12,159,856
+offsets:0,0,160,856
+staff jewel
+bounds:1363,1277,41,108
+staff_shadow
+bounds:2,1363,181,869
+offsets:6,8,194,886
+rotate:90
+top arm
+bounds:925,80,125,405
+top coat layer
+bounds:2,914,447,604
+rotate:90
+top hand
+bounds:1338,42,75,109

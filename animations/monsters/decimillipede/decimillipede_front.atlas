@@ -1,0 +1,314 @@
+decimillipede.png
+size:2046,1844
+filter:Linear,Linear
+drip1
+bounds:889,1820,22,248
+offsets:1,1,24,250
+rotate:90
+drip2
+bounds:102,1823,19,158
+offsets:1,1,21,160
+rotate:90
+glob1
+bounds:107,1701,52,82
+offsets:1,2,54,85
+rotate:90
+glob2
+bounds:2,1795,94,28
+offsets:1,25,96,54
+glob3
+bounds:414,1748,42,76
+offsets:1,1,80,78
+rotate:90
+glob4
+bounds:1181,1668,76,66
+offsets:1,1,78,68
+glob5
+bounds:220,1751,123,40
+offsets:1,2,125,43
+glob6
+bounds:1942,1683,90,61
+offsets:1,3,92,65
+glob7
+bounds:1376,1734,47,64
+offsets:1,1,49,66
+rotate:90
+holes_l
+bounds:322,1013,775,382
+offsets:0,0,1281,382
+holes_r
+bounds:1099,1013,652,382
+offsets:579,0,1231,382
+ooze_l
+bounds:191,1695,224,51
+offsets:2,1,228,53
+ooze_r
+bounds:787,1680,241,57
+offsets:1,1,243,59
+scar_1
+bounds:2,1187,208,318
+offsets:0,2,208,320
+rotate:90
+scar_2
+bounds:2,1470,152,334
+offsets:1,0,154,334
+rotate:90
+scar_2_shriveled
+bounds:1218,1517,149,309
+offsets:1,23,151,333
+rotate:90
+scar_2_shriveled_front
+bounds:757,1583,95,245
+offsets:1554,298,2654,1292
+rotate:90
+seg1 arms 1
+bounds:1915,1544,129,137
+offsets:0,0,129,138
+seg1 arms 10
+bounds:894,1739,45,138
+rotate:90
+seg1 arms 11
+bounds:1572,1664,64,202
+offsets:2,0,66,204
+rotate:90
+seg1 arms 12
+bounds:417,1691,55,233
+offsets:1,0,56,233
+rotate:90
+seg1 arms 13
+bounds:524,1789,29,368
+rotate:90
+seg1 arms 14
+bounds:1034,1736,45,340
+offsets:0,1,45,341
+rotate:90
+seg1 arms 15
+bounds:1259,1668,62,311
+offsets:1,0,64,311
+rotate:90
+seg1 arms 16
+bounds:738,1744,43,101
+offsets:0,1,43,102
+rotate:90
+seg1 arms 17
+bounds:354,1611,78,96
+offsets:0,1,78,97
+rotate:90
+seg1 arms 18
+bounds:1674,1779,61,37
+offsets:1,0,62,37
+seg1 arms 19
+bounds:2003,1796,46,33
+offsets:3,1,50,35
+rotate:90
+seg1 arms 2
+bounds:1529,1513,149,162
+offsets:0,2,149,164
+rotate:90
+seg1 arms 20
+bounds:2000,1746,48,44
+offsets:1,1,50,48
+rotate:90
+seg1 arms 21
+bounds:587,1822,25,20
+offsets:2,2,30,24
+seg1 arms 3
+bounds:605,1587,150,95
+seg1 arms 4
+bounds:652,1684,58,133
+offsets:0,0,59,133
+rotate:90
+seg1 arms 5
+bounds:345,1749,41,67
+offsets:1,1,43,69
+rotate:90
+seg1 arms 6
+bounds:1851,1816,26,56
+offsets:1,1,28,58
+rotate:90
+seg1 arms 7
+bounds:287,1793,28,66
+offsets:1,1,30,68
+rotate:90
+seg1 arms 8
+bounds:1785,1817,25,64
+offsets:1,1,27,66
+rotate:90
+seg1 arms 9
+bounds:355,1792,29,80
+offsets:1,1,31,83
+rotate:90
+seg2 arms 1
+bounds:437,1792,29,85
+rotate:90
+seg2 arms 10
+bounds:262,1823,19,133
+rotate:90
+seg2 arms 11
+bounds:1279,1819,23,154
+offsets:1,0,24,154
+rotate:90
+seg2 arms 12
+bounds:894,1786,32,164
+rotate:90
+seg2 arms 13
+bounds:1519,1780,36,153
+rotate:90
+seg2 arms 14
+bounds:1483,1818,24,75
+offsets:8,0,32,75
+rotate:90
+seg2 arms 15
+bounds:614,1822,67,20
+offsets:1,1,69,22
+seg2 arms 16
+bounds:1909,1816,48,26
+offsets:1,2,51,29
+seg2 arms 17
+bounds:1560,1818,49,24
+offsets:6,1,57,61
+seg2 arms 18
+bounds:397,1823,43,19
+offsets:1,1,46,21
+seg2 arms 19
+bounds:52,1825,48,17
+offsets:2,1,52,19
+seg2 arms 2
+bounds:762,1821,21,125
+offsets:4,2,25,128
+rotate:90
+seg2 arms 3
+bounds:442,1823,19,143
+offsets:0,1,19,144
+rotate:90
+seg2 arms 4
+bounds:492,1748,39,244
+offsets:1,0,41,244
+rotate:90
+seg2 arms 5
+bounds:1737,1778,36,261
+offsets:1,0,37,261
+rotate:90
+seg2 arms 6
+bounds:1060,1784,33,218
+offsets:1,0,34,219
+rotate:90
+seg2 arms 7
+bounds:98,1795,26,187
+offsets:1,0,28,187
+rotate:90
+seg2 arms 8
+bounds:1611,1818,24,172
+rotate:90
+seg2 arms 9
+bounds:1139,1820,22,138
+offsets:1,0,23,138
+rotate:90
+seg3 arm 1
+bounds:2,1755,38,216
+offsets:2,0,41,217
+rotate:90
+seg3 arm 10
+bounds:452,1610,79,151
+offsets:0,0,80,151
+rotate:90
+seg3 arm 11
+bounds:2,1828,48,14
+offsets:1,3,50,18
+seg3 arm 12
+bounds:1435,1819,46,23
+offsets:0,1,47,25
+seg3 arm 13
+bounds:683,1822,77,20
+offsets:0,0,77,22
+seg3 arm 14
+bounds:1459,1781,58,35
+offsets:1,1,60,38
+seg3 arm 15
+bounds:1959,1816,42,26
+offsets:0,1,42,27
+seg3 arm 16
+bounds:841,1741,51,46
+offsets:1,0,52,46
+seg3 arm 17
+bounds:1030,1673,61,149
+offsets:1,2,63,151
+rotate:90
+seg3 arm 18
+bounds:2,1629,70,129
+offsets:0,1,71,130
+rotate:90
+seg3 arm 2
+bounds:1697,1730,46,243
+offsets:0,0,47,245
+rotate:90
+seg3 arm 3
+bounds:1442,1732,45,253
+offsets:0,1,46,254
+rotate:90
+seg3 arm 4
+bounds:133,1624,69,219
+offsets:0,0,69,220
+rotate:90
+seg3 arm 5
+bounds:2,1704,49,103
+offsets:1,0,50,103
+rotate:90
+seg3 arm 6
+bounds:1280,1783,34,97
+offsets:1,0,35,97
+rotate:90
+seg3 arm 7
+bounds:1379,1783,34,78
+offsets:0,1,34,79
+rotate:90
+seg3 arm 8
+bounds:1776,1662,66,137
+offsets:1,1,69,139
+rotate:90
+seg3 arm 9
+bounds:1004,1566,100,212
+offsets:0,0,100,213
+rotate:90
+seg_2_fx_bottom
+bounds:2,589,483,422
+offsets:0,1,483,423
+seg_2_fx_top
+bounds:2,94,492,526
+offsets:0,2,493,528
+rotate:90
+segment 2 shriveled
+bounds:972,521,666,490
+offsets:1,84,668,574
+segment 3 shriveled
+bounds:1058,2,826,517
+offsets:66,52,905,590
+shadow_v2
+bounds:2,1397,1897,71
+wormy_bottom_mid
+bounds:487,588,483,423
+offsets:819,376,2642,1289
+wormy_top_mid
+bounds:530,27,492,526
+offsets:0,2,493,528
+rotate:90
+
+decimillipede_2.png
+size:1822,1470
+filter:Linear,Linear
+seg_3_fx
+bounds:2,558,910,538
+rotate:90
+segment 1
+bounds:1182,713,755,638
+offsets:0,0,827,638
+rotate:90
+segment 1 shriveled
+bounds:542,642,826,638
+offsets:1,0,827,638
+rotate:90
+segment 3
+bounds:2,18,910,538
+segment_1_fx
+bounds:914,2,755,638
+offsets:0,0,827,638

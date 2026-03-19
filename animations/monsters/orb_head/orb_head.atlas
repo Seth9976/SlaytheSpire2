@@ -1,0 +1,150 @@
+orb_head.png
+size:2028,271
+filter:Linear,Linear
+scale:0.27
+apron
+bounds:555,61,208,341
+offsets:0,8,210,349
+rotate:90
+apron bottom
+bounds:474,2,27,27
+back tubes
+bounds:1515,4,76,119
+bod
+bounds:1712,142,125,127
+bod highlight
+bounds:1032,5,83,105
+offsets:0,8,104,113
+burn smudge 1
+bounds:1244,4,115,121
+offsets:5,0,120,124
+rotate:90
+burn smudge 2
+bounds:1863,47,70,94
+offsets:0,3,74,113
+burn smudge 3
+bounds:682,4,72,55
+offsets:0,1,75,58
+head zap short
+bounds:1911,239,30,31
+offsets:1,1,32,33
+rotate:90
+head zaps 0
+bounds:127,2,11,68
+rotate:90
+head zaps branched
+bounds:1790,4,25,68
+rotate:90
+l arm bottom
+bounds:1800,45,61,95
+l arm top
+bounds:556,3,56,124
+rotate:90
+l boot
+bounds:1593,9,93,129
+l hand
+bounds:968,11,62,95
+l index
+bounds:1911,168,30,69
+l middle
+bounds:399,3,21,73
+rotate:90
+l pinky
+bounds:503,3,26,51
+rotate:90
+l ring
+bounds:250,2,19,65
+offsets:0,1,19,66
+rotate:90
+l sleeve inside
+bounds:812,7,52,18
+rotate:90
+l thumb
+bounds:1935,56,39,61
+rotate:90
+lightning branch1
+bounds:898,108,84,161
+offsets:22,107,150,278
+lightning branch2
+bounds:1074,116,85,153
+offsets:23,105,150,278
+lightning branch3
+bounds:1493,125,86,144
+offsets:23,104,150,278
+lightning branch4
+bounds:1404,125,87,144
+offsets:23,104,150,278
+lightning main1
+bounds:2,10,123,259
+offsets:9,15,150,278
+lightning main2
+bounds:127,15,121,254
+offsets:18,11,150,278
+lightning main3
+bounds:336,26,110,243
+offsets:30,10,150,278
+lightning main4
+bounds:448,31,105,238
+offsets:36,9,150,278
+neck
+bounds:1839,204,65,70
+rotate:90
+neck highlights
+bounds:1950,97,65,68
+offsets:0,0,65,70
+rotate:90
+orb
+bounds:1161,121,148,148
+orb center
+bounds:1763,3,25,26
+offsets:1,1,27,27
+r arm highlight
+bounds:1763,31,35,109
+r arm lower
+bounds:1367,5,77,115
+offsets:0,0,77,117
+r arm upper
+bounds:1688,10,73,128
+offsets:0,0,73,139
+r boot
+bounds:1311,122,91,147
+r hand
+bounds:1446,2,67,121
+r index
+bounds:1943,164,38,83
+rotate:90
+r middle
+bounds:1860,3,40,88
+rotate:90
+r pinky
+bounds:898,62,44,68
+rotate:90
+r ring
+bounds:832,12,47,82
+rotate:90
+r sleeve inside
+bounds:339,2,58,22
+shadow
+bounds:250,23,246,84
+offsets:1,0,247,84
+rotate:90
+shine
+bounds:1117,2,125,112
+slappy hand
+bounds:984,112,88,157
+smoke
+bounds:1950,204,71,65
+smoke 2
+bounds:756,4,54,55
+smoke 3
+bounds:1839,143,62,59
+smoke 4
+bounds:916,19,41,42
+rotate:90
+zap flash
+bounds:1581,140,129,129
+offsets:2,2,133,133
+zap glow
+bounds:317,2,19,20
+offsets:0,0,20,21
+rotate:90

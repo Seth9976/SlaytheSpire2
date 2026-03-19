@@ -1,0 +1,85 @@
+egglayer.png
+size:1638,521
+filter:Linear,Linear
+scale:0.5
+back leg 1
+bounds:1406,70,33,86
+rotate:90
+back leg 2
+bounds:1494,19,40,84
+bod
+bounds:106,188,331,269
+offsets:0,3,334,272
+rotate:90
+burst_sack
+bounds:871,23,174,149
+rotate:90
+egg sack 1
+bounds:659,23,210,174
+offsets:0,2,210,176
+egg sack 2
+bounds:1022,41,150,157
+offsets:0,0,150,163
+eyes
+bounds:228,116,127,70
+goo_slap
+bounds:2,109,410,102
+offsets:1,1,412,103
+rotate:90
+iris 1
+bounds:37,5,14,13
+rotate:90
+iris 2
+bounds:52,6,8,13
+iris 3
+bounds:2,2,11,17
+iris 4
+bounds:15,5,20,14
+l arm 1
+bounds:1102,5,34,78
+rotate:90
+l arm 2
+bounds:106,109,59,77
+pincer 1
+bounds:1459,37,33,31
+pincer 2
+bounds:1459,10,25,32
+rotate:90
+r arm 1
+bounds:1022,4,35,78
+rotate:90
+r arm 2
+bounds:167,109,59,77
+shadow
+bounds:2,21,303,86
+offsets:1,0,305,86
+single_egg
+bounds:357,123,63,53
+offsets:3,2,70,58
+rotate:90
+wing 1
+bounds:412,9,245,188
+offsets:0,0,253,189
+wing 1 copy
+bounds:1182,13,275,51
+wing 3
+bounds:1174,66,132,230
+offsets:0,0,138,235
+rotate:90
+wing 4
+bounds:1406,105,230,109
+offsets:0,0,233,112
+wing cover
+bounds:307,3,111,78
+rotate:90
+wing_fl
+bounds:377,199,307,320
+wing_fl_2
+bounds:993,200,317,319
+wing_fr
+bounds:1312,216,303,318
+offsets:0,7,303,325
+rotate:90
+wing_fr_2
+bounds:686,199,305,320
+offsets:0,4,305,324

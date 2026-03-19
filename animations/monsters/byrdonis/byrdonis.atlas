@@ -1,0 +1,106 @@
+byrdonis.png
+size:1559,1045
+filter:Linear,Linear
+scale:0.71
+anger
+bounds:965,268,225,228
+rotate:90
+backwing
+bounds:1195,193,300,224
+offsets:258,1,558,234
+rotate:90
+backwing_middle
+bounds:2,174,428,236
+offsets:34,1,462,237
+rotate:90
+backwing_top
+bounds:478,230,312,179
+offsets:1,0,314,193
+rotate:90
+bod
+bounds:2,604,498,299
+bottom beak
+bounds:251,2,208,71
+offsets:6,0,214,71
+bottom foot
+bounds:1396,800,243,145
+rotate:90
+bottom knee
+bounds:751,554,47,52
+offsets:0,0,47,53
+rotate:90
+bottom leg 1
+bounds:1190,18,175,173
+offsets:1,0,177,173
+bottom leg 2
+bounds:478,39,178,189
+eyes
+bounds:838,173,65,43
+rotate:90
+eyes_red
+bounds:1099,5,64,42
+feather1
+bounds:1099,49,217,89
+rotate:90
+feather2
+bounds:251,75,218,97
+head
+bounds:2,6,247,166
+head feathers
+bounds:1367,42,149,182
+offsets:6,0,155,182
+rotate:90
+head feathers back
+bounds:838,37,97,134
+offsets:0,0,97,153
+head feathers top
+bounds:887,237,107,75
+rotate:90
+head grey
+bounds:1396,653,143,145
+offsets:0,3,143,148
+leg tuft bottom
+bounds:887,346,136,75
+rotate:90
+leg tuft top
+bounds:887,484,117,76
+offsets:0,1,117,77
+rotate:90
+neck
+bounds:502,544,247,359
+shadow
+bounds:2,905,966,138
+offsets:1,2,968,141
+tail
+bounds:970,495,548,424
+offsets:7,0,555,430
+rotate:90
+top beak
+bounds:659,3,235,177
+offsets:0,0,236,177
+rotate:90
+top foot
+bounds:964,17,249,133
+offsets:0,1,249,134
+rotate:90
+top knee
+bounds:805,556,45,48
+rotate:90
+top leg 2
+bounds:1421,207,128,214
+offsets:98,3,226,269
+top leg1
+bounds:1421,423,228,136
+rotate:90
+wing
+bounds:659,240,302,226
+offsets:256,0,558,234
+rotate:90
+wing middle
+bounds:240,174,428,236
+offsets:34,1,462,237
+rotate:90
+wing top
+bounds:751,603,300,181
+offsets:14,0,314,193
+rotate:90

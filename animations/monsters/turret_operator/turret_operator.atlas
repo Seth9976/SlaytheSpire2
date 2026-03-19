@@ -1,0 +1,156 @@
+turret_operator.png
+size:2017,1167
+filter:Linear,Linear
+scale:0.5
+arm 1
+bounds:1796,651,161,120
+offsets:0,21,237,141
+arm 1 lower
+bounds:1852,394,131,116
+arm 2
+bounds:419,54,181,146
+offsets:0,0,181,147
+arm 2 lower
+bounds:1879,1026,139,136
+offsets:0,0,140,137
+rotate:90
+arm 3
+bounds:1829,773,143,158
+offsets:18,0,161,158
+rotate:90
+arm 4
+bounds:1682,64,119,117
+offsets:0,2,119,120
+big screw
+bounds:1286,12,78,85
+rotate:90
+bod
+bounds:904,768,397,509
+offsets:0,11,397,520
+rotate:90
+bottom ear
+bounds:1478,84,74,127
+hairs
+bounds:1429,5,85,36
+offsets:0,0,86,37
+rotate:90
+hand 1
+bounds:1348,92,128,119
+offsets:0,0,128,121
+hand 2
+bounds:1205,125,147,141
+offsets:1,0,148,146
+rotate:90
+hand 3
+bounds:1879,918,136,106
+hand 4
+bounds:1554,81,126,100
+handle
+bounds:1959,631,56,140
+head
+bounds:1348,213,197,227
+rotate:90
+idle_barrels
+bounds:1415,963,462,202
+offsets:0,0,465,202
+idle_barrels_back
+bounds:813,273,389,146
+offsets:0,0,390,146
+idle_handle
+bounds:419,23,29,106
+offsets:0,1,30,108
+rotate:90
+idle_handle_front
+bounds:1803,129,51,155
+rotate:90
+idle_orb
+bounds:612,2,225,234
+offsets:0,1,225,235
+rotate:90
+idle_screw
+bounds:1945,538,67,91
+idle_screw_x
+bounds:1609,27,55,52
+offsets:1,0,61,53
+idle_turret
+bounds:1657,409,238,193
+rotate:90
+l leg
+bounds:1803,182,210,188
+rotate:90
+l pant leg
+bounds:825,794,88,77
+offsets:1,0,90,77
+rotate:90
+mouth
+bounds:1960,74,106,55
+offsets:0,1,106,57
+rotate:90
+mouth_open
+bounds:1803,72,106,55
+offsets:0,1,106,57
+muzzle_flash_1
+bounds:2,535,642,347
+offsets:41,15,704,378
+muzzle_flash_2
+bounds:2,202,608,331
+offsets:1,19,629,368
+neck
+bounds:612,229,199,242
+neck plate
+bounds:1391,412,235,264
+rotate:90
+orb
+bounds:1577,183,224,224
+offsets:2,2,228,228
+r leg
+bounds:1204,274,145,142
+rotate:90
+r leg upper
+bounds:1373,12,54,78
+offsets:1,0,55,78
+r pant leg bottom
+bounds:1467,29,79,53
+r pant leg top
+bounds:1198,6,86,84
+shadow
+bounds:2,884,900,281
+offsets:1,1,902,283
+smear 1
+bounds:1246,434,332,143
+offsets:0,0,333,144
+rotate:90
+smear 2
+bounds:848,116,355,155
+offsets:1,1,357,157
+smear 3
+bounds:848,7,348,107
+offsets:1,0,350,107
+snout
+bounds:1548,25,59,54
+offsets:1,0,61,54
+top ear
+bounds:1852,512,91,137
+turret
+bounds:825,421,414,174
+offsets:0,2,414,177
+turret barrels
+bounds:646,473,409,177
+offsets:2,0,411,178
+rotate:90
+turret barrels 1
+bounds:2,26,415,174
+offsets:1,1,416,175
+turret barrels 2
+bounds:1415,784,412,177
+offsets:1,0,413,177
+turret barrels 3
+bounds:825,597,419,169
+offsets:1,0,420,170
+turret barrels back
+bounds:1415,649,379,133
+offsets:1,0,380,133
+turret handle
+bounds:1205,92,31,101
+offsets:0,1,31,103
+rotate:90

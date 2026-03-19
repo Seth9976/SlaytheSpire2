@@ -1,0 +1,59 @@
+magi_knight.png
+size:1873,355
+filter:Linear,Linear
+scale:0.27
+bod
+bounds:1661,185,123,168
+bomb
+bounds:1205,217,136,171
+rotate:90
+bombsparks
+bounds:740,18,49,41
+rotate:90
+bottom leg
+bounds:1205,123,92,152
+rotate:90
+bottom leg 2
+bounds:1661,131,52,154
+rotate:90
+cape back
+bounds:456,69,334,284
+cape top
+bounds:2,14,452,339
+fire shine
+bounds:1817,142,41,47
+front leg
+bounds:456,2,65,197
+rotate:90
+front leg 2
+bounds:1661,66,63,151
+offsets:0,0,63,153
+rotate:90
+grate
+bounds:1513,277,33,76
+head
+bounds:1786,239,83,114
+head void
+bounds:1786,191,46,85
+rotate:90
+head_fire_spark
+bounds:740,10,6,7
+rotate:90
+hips
+bounds:655,5,83,62
+jewel
+bounds:1513,244,28,31
+jousting pole
+bounds:792,2,758,114
+shadow
+bounds:1552,14,339,107
+offsets:7,1,347,109
+rotate:90
+shawl bottom
+bounds:1661,6,102,58
+shawl top
+bounds:1378,131,222,133
+rotate:90
+shield
+bounds:792,118,235,411
+rotate:90

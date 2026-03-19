@@ -1,0 +1,141 @@
+flailknight.png
+size:1550,779
+filter:Linear,Linear
+scale:0.22
+ball 1 l
+bounds:1339,103,70,59
+ball 1 r
+bounds:1371,228,79,67
+ball 2 l
+bounds:1445,117,62,71
+rotate:90
+ball 2 r
+bounds:988,11,70,80
+breaker_swish
+bounds:290,6,269,356
+offsets:0,0,270,360
+chain 1 l
+bounds:1376,297,132,144
+offsets:7,14,139,158
+rotate:90
+chain 1 r
+bounds:1384,628,149,164
+offsets:0,15,157,179
+rotate:90
+chain 2 l
+bounds:1266,8,71,181
+offsets:5,16,76,197
+chain 2 r
+bounds:1060,12,79,204
+offsets:0,18,86,222
+rotate:90
+chestplate
+bounds:1074,373,165,137
+circ_blurs_1
+bounds:514,367,410,319
+rotate:90
+circ_blurs_2
+bounds:189,364,413,323
+rotate:90
+circ_rotator
+bounds:856,93,255,272
+offsets:0,0,255,275
+circ_swishes
+bounds:1230,522,255,152
+rotate:90
+eyes
+bounds:1236,252,68,28
+rotate:90
+eyes copy
+bounds:1241,461,59,19
+rotate:90
+flail staff l
+bounds:1092,519,136,258
+flail staff r
+bounds:957,512,133,265
+grill
+bounds:1217,167,73,42
+rotate:90
+head
+bounds:884,4,87,102
+rotate:90
+hips
+bounds:1376,431,150,74
+offsets:0,28,150,102
+l arm
+bounds:1241,322,77,131
+rotate:90
+l arm armor
+bounds:1113,111,102,129
+l foot
+bounds:1452,245,78,50
+l hand
+bounds:1400,42,59,59
+l hand flip
+bounds:687,3,69,64
+l hand flip top
+bounds:616,3,69,64
+l hand top
+bounds:1339,42,59,59
+l leg
+bounds:150,2,108,138
+rotate:90
+l leg 2
+bounds:194,123,88,136
+offsets:1,0,89,138
+l shoulder
+bounds:1266,401,108,119
+neck
+bounds:955,369,125,117
+offsets:3,0,128,117
+rotate:90
+r arm
+bounds:194,261,93,101
+r arm armor
+bounds:835,367,118,127
+r foot
+bounds:561,2,65,53
+offsets:0,0,66,53
+rotate:90
+r hand
+bounds:821,3,64,61
+offsets:1,0,65,61
+rotate:90
+r hand flip
+bounds:1371,164,72,62
+r hand flip top
+bounds:1452,181,72,62
+r hand top
+bounds:758,3,64,61
+offsets:1,0,65,61
+rotate:90
+r leg
+bounds:1384,507,119,151
+rotate:90
+r leg 2
+bounds:2,2,108,146
+rotate:90
+ram_slam
+bounds:561,69,293,296
+offsets:2,2,297,302
+ram_swish
+bounds:2,112,665,106
+offsets:2,0,670,106
+rotate:90
+right shoulder
+bounds:1113,242,121,129
+shadow
+bounds:110,355,422,77
+offsets:1,0,424,78
+rotate:90
+waist
+bounds:1266,191,129,103
+rotate:90
+waist armor bottom
+bounds:835,496,281,120
+offsets:1,0,282,137
+rotate:90
+waist armor top
+bounds:110,112,241,82
+offsets:0,0,241,97
+rotate:90

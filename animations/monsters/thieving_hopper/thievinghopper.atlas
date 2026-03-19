@@ -1,0 +1,89 @@
+thievinghopper.png
+size:1666,648
+filter:Linear,Linear
+scale:0.6
+antennae 1
+bounds:1220,4,82,181
+antennae 2
+bounds:825,17,92,161
+back leg 2
+bounds:1218,187,67,250
+back wing 1
+bounds:1220,439,110,397
+offsets:0,0,110,398
+rotate:90
+back wing 2
+bounds:1220,551,78,403
+offsets:0,0,79,403
+rotate:90
+back wing 3
+bounds:1304,132,53,356
+rotate:90
+bod 1
+bounds:1483,213,104,224
+bod 2
+bounds:1589,328,71,58
+bod 3
+bounds:1476,45,85,69
+offsets:1,0,86,69
+rotate:90
+bod 4
+bounds:1589,240,86,70
+rotate:90
+bottom arm 1
+bounds:1304,20,110,76
+rotate:90
+bottom arm 2
+bounds:1030,2,26,98
+rotate:90
+bottom foot
+bounds:1619,388,88,30
+rotate:90
+bottom hand
+bounds:1619,478,54,41
+rotate:90
+bottom leg 1
+bounds:1356,190,125,247
+offsets:0,0,125,248
+cape 1
+bounds:1142,43,135,75
+rotate:90
+cape 2
+bounds:919,23,155,109
+rotate:90
+extend-o-tenna
+bounds:438,631,1226,15
+head
+bounds:1030,30,110,148
+pincer 1
+bounds:2,3,10,29
+rotate:90
+pincer 2
+bounds:919,2,19,29
+rotate:90
+puff1
+bounds:664,3,175,159
+rotate:90
+shadow
+bounds:438,174,455,126
+offsets:1,1,457,128
+rotate:90
+top arm 1
+bounds:1382,33,97,92
+rotate:90
+top arm 2
+bounds:1625,534,38,95
+top foot
+bounds:1130,2,88,26
+top hand
+bounds:1589,191,47,47
+top leg 1
+bounds:438,6,166,224
+rotate:90
+top leg 2
+bounds:1287,187,67,250
+wing_blur_1
+bounds:566,180,650,449
+wing_blur_2
+bounds:2,15,631,434
+rotate:90

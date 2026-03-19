@@ -1,0 +1,114 @@
+twig_slime_m.png
+size:205,762
+filter:Linear,Linear
+scale:0.5
+Layer 17
+bounds:2,582,161,127
+offsets:0,0,162,127
+Layer 18
+bounds:2,377,121,104
+Layer 19
+bounds:2,483,128,97
+angry_eyes
+bounds:111,215,69,22
+blink 1 copy
+bounds:110,113,67,18
+offsets:0,1,67,19
+blink 1
+bounds:110,113,67,18
+offsets:0,1,67,19
+blink 2 copy
+bounds:182,196,69,20
+rotate:90
+blink 2
+bounds:182,196,69,20
+rotate:90
+blink 3
+bounds:125,368,70,23
+drop
+bounds:132,493,23,23
+eyes
+bounds:2,162,106,42
+eyes blink
+bounds:165,702,11,7
+eyes blink copy
+bounds:132,534,46,31
+rotate:90
+eyes blink copy 10
+bounds:165,593,107,38
+offsets:1,0,108,38
+rotate:90
+eyes blink copy 11
+bounds:2,127,106,33
+offsets:1,0,107,36
+eyes blink copy 2
+bounds:2,56,61,33
+eyes blink copy 3
+bounds:125,393,73,35
+eyes blink copy 4
+bounds:104,62,94,35
+offsets:1,0,95,35
+eyes blink copy 5
+bounds:165,486,105,37
+offsets:1,0,106,37
+rotate:90
+eyes blink copy 6
+bounds:2,206,107,39
+offsets:1,0,108,39
+eyes blink copy 7
+bounds:2,333,107,42
+offsets:1,0,108,42
+eyes blink copy 8
+bounds:2,290,107,41
+offsets:1,0,108,41
+eyes blink copy 9
+bounds:2,247,107,41
+offsets:1,0,108,41
+projectile
+bounds:110,133,93,41
+offsets:3,3,100,47
+pupils
+bounds:2,91,100,34
+shadow
+bounds:2,711,183,49
+offsets:2,0,186,50
+twig 1
+bounds:111,267,99,81
+offsets:1,0,100,82
+rotate:90
+twig 10
+bounds:132,518,24,14
+twig 11
+bounds:181,176,22,18
+offsets:1,0,23,18
+twig 12
+bounds:111,178,35,68
+rotate:90
+twig 13
+bounds:58,14,22,17
+twig 14
+bounds:150,34,49,26
+twig 2
+bounds:111,239,69,26
+twig 3
+bounds:65,33,56,28
+rotate:90
+twig 4
+bounds:2,4,50,54
+rotate:90
+twig 5
+bounds:132,430,54,71
+rotate:90
+twig 6
+bounds:95,44,53,16
+offsets:1,0,54,16
+twig 7
+bounds:95,2,40,43
+offsets:0,0,41,43
+rotate:90
+twig 8
+bounds:179,99,32,23
+rotate:90
+twig 9
+bounds:187,702,58,16
+rotate:90

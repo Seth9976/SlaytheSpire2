@@ -1,0 +1,49 @@
+the_forgotten.png
+size:814,1029
+filter:Linear,Linear
+scale:0.6
+Layer 1
+bounds:2,619,419,408
+glow wheel thick
+bounds:2,619,419,408
+chunk1
+bounds:419,161,102,89
+offsets:0,0,103,89
+chunk2
+bounds:523,161,89,93
+offsets:1,0,90,93
+rotate:90
+chunk3
+bounds:707,79,82,91
+offsets:1,1,83,93
+cracks
+bounds:405,252,265,212
+cursed
+bounds:423,747,364,280
+offsets:0,0,364,307
+glow wheel
+bounds:2,227,401,390
+offsets:0,0,401,391
+layered_face
+bounds:2,2,364,223
+offsets:0,0,364,307
+mask_1
+bounds:423,466,364,279
+offsets:0,0,364,307
+mask_1_eyes
+bounds:419,46,286,113
+offsets:1,0,289,115
+mask_1_shadow
+bounds:368,38,187,49
+offsets:5,1,212,66
+rotate:90
+mask_back
+bounds:672,172,292,140
+rotate:90
+
+the_forgotten_2.png
+size:138,395
+filter:Linear,Linear
+scale:0.6
+smoke1/smoke mesh
+bounds:2,2,134,391

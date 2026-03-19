@@ -1,0 +1,67 @@
+louse_progenitor.png
+size:1834,1787
+filter:Linear,Linear
+scale:0.6
+back fur
+bounds:2,2,696,751
+offsets:0,0,700,751
+rotate:90
+back leg bottom
+bounds:1600,1554,231,232
+offsets:1,0,232,233
+rotate:90
+front fur
+bounds:791,694,607,706
+rotate:90
+front leg
+bounds:472,1456,232,234
+rotate:90
+front leg 2
+bounds:448,1729,56,62
+rotate:90
+front leg 2 copy
+bounds:384,1731,54,62
+offsets:1,0,55,62
+rotate:90
+front leg bottom
+bounds:236,1495,232,234
+rotate:90
+front leg copy
+bounds:2,1533,231,232
+offsets:1,0,232,233
+rotate:90
+large antennae bottom 1
+bounds:1288,1615,170,310
+rotate:90
+large antennae bottom 2
+bounds:2,1766,380,19
+meddile leg
+bounds:853,1690,95,271
+offsets:1,0,96,271
+rotate:90
+meddile leg bottom
+bounds:580,1690,95,271
+offsets:1,0,96,271
+rotate:90
+middle fur
+bounds:2,700,601,787
+rotate:90
+middle leg 2
+bounds:512,1728,66,57
+offsets:0,0,67,57
+shadow
+bounds:2,1303,1475,151
+offsets:2,1,1478,153
+smal antennae top 1
+bounds:1126,1655,130,160
+rotate:90
+
+louse_progenitor_2.png
+size:1858,1492
+filter:Linear,Linear
+scale:0.6
+bod
+bounds:1084,2,1488,772
+rotate:90
+web
+bounds:2,313,1080,1177

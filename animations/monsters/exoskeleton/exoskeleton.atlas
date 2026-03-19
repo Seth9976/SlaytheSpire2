@@ -1,0 +1,120 @@
+exoskeleton.png
+size:284,523
+filter:Linear,Linear
+scale:0.16
+antennae
+bounds:194,127,20,50
+antennae 2
+bounds:166,94,20,50
+antennae 3
+bounds:2,2,9,21
+rotate:90
+antennae 4
+bounds:272,498,7,23
+antennae 5
+bounds:252,85,3,7
+antennae 6
+bounds:89,108,2,6
+back armor
+bounds:232,439,38,82
+bod
+bounds:2,116,89,149
+bottom arm 1
+bounds:257,112,25,64
+top arm 1
+bounds:257,112,25,64
+bottom arm 2
+bounds:188,85,40,40
+top arm 2
+bounds:188,85,40,40
+bottom arm 3
+bounds:188,61,22,41
+rotate:90
+bottom arm 4
+bounds:89,19,45,41
+bottom armor
+bounds:216,249,40,66
+rotate:90
+bottom eye
+bounds:265,345,29,17
+rotate:90
+bottom foot
+bounds:226,31,28,11
+rotate:90
+top foot
+bounds:226,31,28,11
+rotate:90
+bottom leg 1
+bounds:230,94,25,40
+bottom leg 2
+bounds:89,2,29,15
+top leg 2
+bounds:89,2,29,15
+bottom leg 3
+bounds:120,3,14,34
+rotate:90
+top leg 3
+bounds:120,3,14,34
+rotate:90
+head
+bounds:152,146,31,40
+rotate:90
+head armor
+bounds:216,175,72,39
+offsets:0,0,73,39
+rotate:90
+head armor 2
+bounds:198,291,81,65
+rotate:90
+millipedestone1
+bounds:231,66,19,26
+millipedestone2
+bounds:166,66,20,26
+millipedestone3
+bounds:239,38,26,19
+rotate:90
+shadow
+bounds:198,374,147,32
+offsets:2,0,149,32
+rotate:90
+slam_blur
+bounds:2,267,194,254
+offsets:0,2,194,256
+top arm 3
+bounds:183,9,22,41
+rotate:90
+top arm 4
+bounds:136,19,45,41
+top eye
+bounds:156,2,12,15
+top leg 1
+bounds:257,70,25,40
+top lil arm
+bounds:265,309,16,34
+top lil arm 2
+bounds:198,269,13,20
+wing 1
+bounds:93,144,121,57
+rotate:90
+wing 2
+bounds:93,62,71,80
+wing 3
+bounds:152,179,86,62
+offsets:0,0,87,62
+rotate:90
+wing 4
+bounds:2,13,101,85
+rotate:90
+wing cover 1
+bounds:257,178,69,25
+rotate:90
+wing cover 2
+bounds:183,33,26,41
+offsets:0,1,26,42
+rotate:90
+wing cover 3
+bounds:216,136,31,37
+offsets:0,1,31,38
+wing cover 4
+bounds:232,376,61,41
+rotate:90

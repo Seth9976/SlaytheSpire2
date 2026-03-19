@@ -1,0 +1,74 @@
+eggbaby.png
+size:1922,232
+filter:Linear,Linear
+scale:0.75
+back arm
+bounds:1887,140,33,90
+offsets:1,1,35,91
+back leg
+bounds:906,5,60,73
+offsets:1,0,65,73
+rotate:90
+base
+bounds:221,14,212,216
+offsets:0,1,212,217
+base b
+bounds:2,9,221,217
+offsets:1,1,224,219
+rotate:90
+bod
+bounds:435,24,242,206
+eyes
+bounds:1801,19,93,75
+offsets:0,1,94,76
+rotate:90
+front arm
+bounds:1887,63,33,75
+offsets:3,1,37,77
+front leg
+bounds:1030,27,42,94
+offsets:0,1,43,95
+rotate:90
+goo_drop_1
+bounds:981,16,47,49
+offsets:0,0,47,50
+iris
+bounds:875,2,63,29
+rotate:90
+middle bit
+bounds:846,67,154,163
+offsets:0,0,154,164
+middle bit b
+bounds:679,61,165,169
+offsets:1,0,166,170
+open egg
+bounds:1418,9,381,100
+pincers
+bounds:842,8,51,31
+offsets:0,0,52,32
+rotate:90
+shadow
+bounds:1507,114,378,116
+offsets:2,1,381,150
+shadow a
+bounds:1126,2,290,82
+offsets:1,1,293,83
+shadow b
+bounds:1126,2,290,82
+offsets:1,1,293,83
+shine
+bounds:1206,99,77,131
+shine b
+bounds:1404,111,101,119
+offsets:0,0,102,119
+spots
+bounds:1285,105,125,117
+rotate:90
+spots b
+bounds:1002,71,159,98
+rotate:90
+wing
+bounds:1102,86,102,144
+wing back
+bounds:679,6,53,161
+rotate:90

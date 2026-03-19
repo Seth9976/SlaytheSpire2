@@ -1,0 +1,40 @@
+sewer_clam.png
+size:565,1014
+filter:Linear,Linear
+scale:0.33
+back coral
+bounds:2,706,386,306
+offsets:0,111,691,424
+blast wave
+bounds:361,48,175,77
+offsets:7,1,187,81
+bottom
+bounds:2,4,282,108
+bottom_lips
+bounds:277,114,295,82
+rotate:90
+coral top
+bounds:2,411,334,293
+dark_pearl
+bounds:286,59,54,53
+darkness
+bounds:286,2,44,167
+rotate:90
+mouth back
+bounds:361,127,283,202
+rotate:90
+open_mouth_back
+bounds:2,114,273,295
+puddle
+bounds:553,949,63,8
+rotate:90
+shadow
+bounds:471,416,310,77
+offsets:1,1,312,78
+rotate:90
+top
+bounds:390,728,284,161
+rotate:90
+top_lips
+bounds:338,412,292,131
+rotate:90

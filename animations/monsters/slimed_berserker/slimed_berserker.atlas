@@ -1,0 +1,149 @@
+slimed_berserker.png
+size:1354,1536
+filter:Linear,Linear
+scale:0.3
+arm 1
+bounds:435,83,319,400
+rotate:90
+arm 2
+bounds:1197,85,151,144
+rotate:90
+arm 3
+bounds:1136,415,221,121
+rotate:90
+arm 4
+bounds:2,15,356,431
+rotate:90
+arm 5
+bounds:1197,238,151,175
+arm 6
+bounds:137,384,82,83
+rotate:90
+arm eyes L
+bounds:393,396,46,40
+rotate:90
+arm eyes L 2
+bounds:798,930,47,48
+rotate:90
+arm eyes R
+bounds:388,692,35,33
+rotate:90
+arm eyes backing L
+bounds:848,931,49,46
+arm eyes backing L 2
+bounds:378,444,50,50
+arm eyes backing R
+bounds:388,729,36,38
+arm eyes backing R 2
+bounds:514,18,71,63
+arm eyes r2
+bounds:587,20,70,61
+arm irises L
+bounds:388,593,14,13
+arm irises L 2
+bounds:1009,962,16,15
+arm irises R
+bounds:404,595,11,11
+arm irises R 2
+bounds:316,446,20,20
+arm veins L
+bounds:1136,638,209,339
+arm veins R
+bounds:837,194,208,358
+rotate:90
+body
+bounds:137,923,659,611
+body bubbles
+bounds:435,404,517,582
+rotate:90
+body eye 1 backing
+bounds:837,11,77,86
+rotate:90
+body eye 1 eye
+bounds:1105,2,71,86
+body eye 1 iris
+bounds:944,960,17,30
+rotate:90
+body eye 2 eye
+bounds:1013,17,90,71
+offsets:0,9,131,80
+body eye 2 fill
+bounds:925,15,86,73
+body eye 2 iris
+bounds:388,819,40,39
+rotate:90
+body eye 3 backing
+bounds:1259,553,81,83
+body eye 3 eye
+bounds:316,373,69,75
+offsets:3,0,101,125
+rotate:90
+body eye 3 iris
+bounds:338,447,19,20
+rotate:90
+body eye 4 backing
+bounds:1178,16,79,67
+body eye 4 eye
+bounds:435,18,77,63
+body eye 4 iris
+bounds:360,449,17,16
+rotate:90
+body eye 5 backing
+bounds:222,385,92,81
+body eye 5 eye
+bounds:1259,459,92,78
+rotate:90
+body eye 5 iris
+bounds:976,962,31,15
+body eye 6 backing
+bounds:744,25,56,57
+rotate:90
+body eye 6 eye
+bounds:1259,20,85,63
+body eye 6 iris
+bounds:924,959,18,18
+body eye 7 backing
+bounds:388,608,36,29
+rotate:90
+body eye 7 eye
+bounds:388,646,44,30
+rotate:90
+body eye 7 iris
+bounds:222,377,10,6
+body eye 8 eye
+bounds:899,954,23,23
+body eye 8 iris
+bounds:234,377,6,7
+rotate:90
+bubbles 1
+bounds:137,468,123,239
+offsets:14,76,200,315
+rotate:90
+bubbles 2
+bounds:388,861,60,42
+rotate:90
+bubbles 3
+bounds:388,769,48,36
+rotate:90
+bubbles 4
+bounds:137,593,249,328
+bubbles 5
+bounds:378,496,95,54
+rotate:90
+bubbles 6
+bounds:659,25,56,83
+rotate:90
+middle slime
+bounds:798,979,554,555
+offsets:0,15,554,570
+puddle_l
+bounds:837,90,357,102
+offsets:0,0,359,102
+puddle_r
+bounds:1027,413,564,107
+offsets:4,0,568,107
+rotate:90
+shadow
+bounds:2,373,1161,133
+offsets:1,1,1162,134
+rotate:90

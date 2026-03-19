@@ -1,0 +1,129 @@
+fabricator.png
+size:491,523
+filter:Linear,Linear
+scale:0.13
+arm b1
+bounds:278,193,64,38
+offsets:0,0,65,38
+arm b2
+bounds:463,11,36,25
+rotate:90
+arm f1
+bounds:278,233,45,64
+rotate:90
+arm f2
+bounds:322,4,36,44
+back l foot
+bounds:246,47,44,124
+back r foot 1
+bounds:110,6,38,138
+offsets:1,0,39,139
+rotate:90
+back r foot 2
+bounds:207,48,37,138
+offsets:2,0,39,139
+back robo arm 1
+bounds:366,352,169,121
+rotate:90
+back robo arm 2
+bounds:44,3,183,24
+rotate:90
+back robo hand 1
+bounds:246,173,30,28
+back robo hand 1b
+bounds:465,80,29,21
+rotate:90
+back robo hand 2
+bounds:411,2,34,25
+offsets:0,0,34,40
+rotate:90
+back robo hand 2b
+bounds:465,49,29,19
+offsets:0,0,29,21
+rotate:90
+bod
+bounds:76,189,86,89
+bottom ear
+bounds:387,14,38,22
+rotate:90
+dust_cloud_00
+bounds:425,38,36,34
+offsets:1,1,40,36
+dust_cloud_01
+bounds:427,74,36,35
+offsets:1,1,40,36
+dust_cloud_02
+bounds:70,2,38,35
+offsets:0,0,40,36
+handles
+bounds:102,46,140,52
+rotate:90
+handles 2
+bounds:292,50,121,51
+rotate:90
+head bottom
+bounds:345,54,51,53
+head top
+bounds:430,149,57,37
+leg_bl1
+bounds:164,188,10,60
+rotate:90
+leg_bl2
+bounds:250,2,43,70
+rotate:90
+leg_br1
+bounds:164,200,37,78
+leg_br2
+bounds:42,193,32,79
+leg_fl1
+bounds:2,352,45,71
+rotate:90
+leg_fl2
+bounds:360,171,15,68
+rotate:90
+leg_fr1
+bounds:278,173,18,50
+rotate:90
+leg_fr2
+bounds:427,111,36,62
+rotate:90
+machine base
+bounds:344,188,162,145
+rotate:90
+machine bod bottom
+bounds:203,203,73,75
+rivet
+bounds:226,189,12,12
+shadow
+bounds:2,399,362,122
+offsets:1,0,363,122
+top ear
+bounds:344,355,42,20
+rotate:90
+top l foot
+bounds:156,48,49,138
+top r foot
+bounds:70,39,30,147
+offsets:11,0,41,147
+top robo arm 1
+bounds:2,37,313,38
+rotate:90
+top robo hand 1
+bounds:2,2,40,33
+top robo hand 1b
+bounds:360,14,38,25
+rotate:90
+top robo hand 2
+bounds:42,315,35,31
+rotate:90
+top robo hand 2b
+bounds:398,70,37,25
+rotate:90
+top tobo arm 2
+bounds:75,280,267,117
+weld mask top
+bounds:360,109,60,65
+rotate:90
+welding mask bottom
+bounds:44,274,39,29
+rotate:90

@@ -1,0 +1,158 @@
+devoted_sculptor.png
+size:1778,650
+filter:Linear,Linear
+scale:0.6
+back feather 1
+bounds:490,86,46,20
+offsets:0,1,47,21
+back feather 10
+bounds:1622,2,40,43
+offsets:0,3,43,46
+back feather 11
+bounds:1737,185,33,39
+offsets:1,1,34,40
+rotate:90
+back feather 12
+bounds:585,109,17,52
+offsets:1,0,19,53
+rotate:90
+back feather 2
+bounds:1459,14,33,19
+offsets:0,0,34,19
+back feather 3
+bounds:1466,432,44,22
+offsets:0,0,45,22
+rotate:90
+back feather 4
+bounds:1758,584,22,13
+rotate:90
+back feather 5
+bounds:1420,11,37,22
+back feather 6
+bounds:1758,608,40,16
+offsets:1,0,41,16
+rotate:90
+back feather 7
+bounds:239,4,24,8
+offsets:0,1,24,10
+back feather 8
+bounds:1195,2,31,12
+offsets:1,0,32,13
+back feather 9
+bounds:1466,375,40,55
+back feathers simple
+bounds:1529,37,91,95
+bandage
+bounds:2,4,66,65
+offsets:1,0,72,65
+rotate:90
+belt sculppture 1
+bounds:1466,478,23,35
+belt sculppture 2
+bounds:1337,11,22,41
+offsets:1,0,23,41
+rotate:90
+belt sculppture 3
+bounds:1380,11,22,38
+offsets:0,0,22,39
+rotate:90
+bod ropes
+bounds:1248,135,244,227
+bottom arm
+bounds:1335,35,98,192
+offsets:1,1,99,193
+rotate:90
+bottom foot
+bounds:1569,134,166,84
+bottom hand
+bounds:1195,16,108,111
+offsets:0,0,109,112
+bottom hand turnt
+bounds:781,6,118,120
+offsets:0,1,119,122
+bottom leg
+bounds:1569,359,72,199
+rotate:90
+bottom sleeve
+bounds:1569,220,137,197
+rotate:90
+chisel head
+bounds:239,14,53,56
+devoted_sculptor_spark_particle
+bounds:1305,2,30,30
+offsets:15,15,60,58
+hammer
+bounds:1012,15,181,112
+offsets:1,0,182,112
+hood bottom
+bounds:1494,433,262,215
+hood feathers 1
+bounds:1664,4,44,41
+hood feathers 2
+bounds:294,15,47,55
+hood feathers 3
+bounds:1622,47,83,85
+hood top
+bounds:986,364,284,280
+offsets:0,16,284,296
+rotate:90
+mask
+bounds:986,129,167,233
+neck
+bounds:1357,366,147,107
+offsets:1,38,149,145
+rotate:90
+necklace
+bounds:69,6,64,168
+rotate:90
+necklace charms
+bounds:1508,380,51,51
+pick
+bounds:1305,34,99,28
+rotate:90
+robe
+bounds:2,72,302,576
+offsets:5,0,307,576
+sculpture1
+bounds:585,128,399,520
+sculpture2
+bounds:306,85,182,563
+scythe string
+bounds:520,2,13,82
+shadow
+bounds:490,108,540,93
+offsets:1,1,544,100
+rotate:90
+string 1
+bounds:320,8,5,21
+rotate:90
+string 2
+bounds:296,8,5,22
+offsets:0,0,5,23
+rotate:90
+string 3
+bounds:265,7,5,29
+rotate:90
+sycthe
+bounds:1155,129,91,233
+top arm
+bounds:1494,167,73,206
+top foot
+bounds:1268,364,149,87
+rotate:90
+top hand
+bounds:901,7,109,119
+top hand top
+bounds:538,6,100,119
+rotate:90
+top hand turnt
+bounds:659,4,122,120
+offsets:1,1,124,122
+rotate:90
+top leg
+bounds:343,4,79,175
+rotate:90
+top sleeve
+bounds:1268,515,133,212
+offsets:0,9,133,222
+rotate:90

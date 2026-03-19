@@ -1,0 +1,152 @@
+vine_shambler.png
+size:1190,269
+filter:Linear,Linear
+scale:0.3
+back head vine
+bounds:855,107,74,63
+back teeth
+bounds:752,172,121,95
+bod
+bounds:2,37,231,177
+offsets:0,0,232,177
+bod feathers 1
+bounds:485,2,16,25
+rotate:90
+bod feathers 2
+bounds:397,226,18,28
+bod feathers 3
+bounds:915,2,28,37
+bod feathers 4
+bounds:1148,61,19,24
+rotate:90
+bod feathers 5
+bounds:1122,65,39,24
+offsets:0,1,39,25
+rotate:90
+bod feathers 6
+bounds:832,81,26,16
+rotate:90
+bod feathers 7
+bounds:1051,2,34,21
+rotate:90
+bod vines 1
+bounds:752,109,101,61
+bod vines 2
+bounds:674,71,35,100
+rotate:90
+bod vines 3
+bounds:995,211,56,104
+offsets:1,0,57,104
+rotate:90
+bod vines 4
+bounds:1101,171,67,78
+rotate:90
+bottom arm
+bounds:558,72,114,182
+bottom bod vines
+bounds:558,20,102,50
+bottom leg 1
+bounds:995,170,39,102
+rotate:90
+bottom leg 2
+bounds:1082,49,55,38
+rotate:90
+bottom leg 3
+bounds:1073,106,62,57
+rotate:90
+death_leg
+bounds:662,2,67,92
+rotate:90
+gnat
+bounds:1181,230,7,8
+head
+bounds:235,15,182,199
+head feathers 1
+bounds:728,258,9,22
+rotate:90
+head feathers 2
+bounds:1176,79,12,26
+head feathers 3
+bounds:512,2,16,12
+rotate:90
+head feathers 4
+bounds:231,2,26,11
+head feathers 5
+bounds:1148,82,26,23
+head feathers 6
+bounds:286,4,9,21
+rotate:90
+head feathers 7
+bounds:945,11,28,43
+offsets:0,0,29,43
+rotate:90
+head feathers 8
+bounds:1063,40,17,59
+head vines 1
+bounds:850,4,39,63
+offsets:0,2,39,65
+rotate:90
+head vines 10
+bounds:156,5,30,73
+offsets:0,0,30,74
+rotate:90
+head vines 2
+bounds:1132,107,55,62
+head vines 3
+bounds:2,2,33,74
+rotate:90
+head vines 4
+bounds:995,101,67,76
+rotate:90
+head vines 5
+bounds:776,71,54,36
+head vines 6
+bounds:419,11,23,64
+offsets:0,1,23,65
+rotate:90
+head vines 7
+bounds:875,176,91,118
+rotate:90
+head vines 8
+bounds:850,45,73,60
+head vines 9
+bounds:485,20,14,68
+rotate:90
+looseleaf
+bounds:259,2,25,11
+shadow
+bounds:2,216,393,51
+offsets:1,1,395,53
+straighe vine
+bounds:397,256,11,329
+rotate:90
+top arm
+bounds:419,36,137,218
+top arm vines 1
+bounds:78,4,31,76
+rotate:90
+top arm vines 2
+bounds:990,19,17,59
+rotate:90
+top arm vines 3
+bounds:1082,2,48,45
+top arm vines 4
+bounds:931,100,62,74
+offsets:0,0,62,77
+top arm vines 5
+bounds:1101,240,27,87
+rotate:90
+top leg 1
+bounds:674,108,76,146
+offsets:0,0,77,146
+top leg 2
+bounds:925,41,72,57
+offsets:0,0,73,57
+top leg 3
+bounds:756,2,67,92
+rotate:90
+top leg cover
+bounds:999,38,62,61
+wood_chip
+bounds:526,9,9,21
+rotate:90

@@ -1,0 +1,136 @@
+myte.png
+size:1953,1032
+filter:Linear,Linear
+scale:0.6
+bod
+bounds:1319,451,398,356
+rotate:90
+bottom back leg 1
+bounds:1867,134,78,76
+offsets:2,1,81,77
+bottom back leg 2
+bounds:1852,300,68,108
+bottom back leg 3
+bounds:1102,124,109,327
+bottom front leg 1
+bounds:1399,18,80,86
+offsets:2,0,83,86
+rotate:90
+bottom front leg 2
+bounds:999,25,82,109
+bottom front leg 3
+bounds:460,479,89,356
+rotate:90
+bottom lil leg 1
+bounds:1935,823,16,80
+offsets:1,0,17,80
+bottom lil leg 2
+bounds:1558,851,43,47
+bottom lil leg 3
+bounds:1816,124,49,109
+carapace 1
+bounds:1677,586,312,256
+rotate:90
+carapace 2
+bounds:1317,285,242,164
+feather 1
+bounds:661,21,100,165
+offsets:0,1,100,167
+rotate:90
+feather 2
+bounds:1645,111,122,169
+offsets:1,1,123,170
+rotate:90
+feather 3
+bounds:1898,905,50,125
+offsets:0,1,50,127
+feather 4
+bounds:1628,28,34,143
+offsets:1,1,35,146
+rotate:90
+ooze
+bounds:455,37,204,84
+orifice
+bounds:1507,98,172,136
+rotate:90
+pincer 1
+bounds:828,18,116,169
+rotate:90
+pincer 2
+bounds:1561,272,109,177
+offsets:0,0,111,178
+pincer 3
+bounds:1173,2,102,79
+offsets:0,0,103,79
+rotate:90
+pincer 4
+bounds:1867,63,69,82
+offsets:0,0,70,82
+rotate:90
+projectile
+bounds:1672,235,173,178
+offsets:2,0,188,178
+rotate:90
+shadow
+bounds:875,851,681,179
+offsets:7,1,701,182
+suckwind
+bounds:443,39,483,10
+rotate:90
+throat
+bounds:1867,212,86,78
+rotate:90
+top back leg 1
+bounds:1487,12,84,139
+rotate:90
+top back leg 2
+bounds:1645,64,45,163
+rotate:90
+top back leg 3
+bounds:1213,106,102,345
+top front leg 1
+bounds:1254,13,85,143
+offsets:0,0,87,143
+rotate:90
+top front leg 2
+bounds:1864,420,68,164
+top front leg 3
+bounds:1558,900,130,338
+rotate:90
+top lil leg 1
+bounds:1935,741,16,80
+offsets:1,0,17,80
+top lil leg 2
+bounds:1603,851,43,47
+top lil leg 3
+bounds:818,459,49,109
+toxic_drop
+bounds:2,3,69,28
+toxic_goo00
+bounds:1083,27,88,95
+offsets:326,243,614,614
+toxic_goo01
+bounds:1677,410,185,174
+offsets:284,205,614,614
+toxic_goo02
+bounds:799,136,301,315
+offsets:168,136,614,614
+toxic_goo03
+bounds:455,123,342,354
+offsets:139,121,614,614
+toxic_goo04
+bounds:875,453,396,442
+offsets:104,62,614,614
+rotate:90
+toxic_goo05
+bounds:460,570,413,460
+offsets:88,53,614,614
+toxic_goo06
+bounds:2,33,439,489
+offsets:69,38,614,614
+toxic_goo07
+bounds:2,524,456,506
+offsets:59,28,614,614
+wind_ring
+bounds:1317,100,188,183
+offsets:1,1,194,187

@@ -1,0 +1,160 @@
+regent_shop.png
+size:2001,729
+filter:Linear,Linear
+scale:0.674
+belt
+bounds:1142,35,65,20
+offsets:0,0,66,20
+bod
+bounds:1193,359,94,99
+bottom arm 1
+bounds:1941,258,58,104
+offsets:0,4,58,108
+bottom arm 1 flipped
+bounds:1941,364,58,104
+offsets:0,4,58,108
+bottom arm 2
+bounds:869,7,84,77
+offsets:0,3,94,80
+bottom fingers
+bounds:1878,282,39,45
+offsets:0,0,40,46
+rotate:90
+bottom hand
+bounds:1048,14,41,44
+offsets:11,0,53,44
+bottom hand freaked
+bounds:1929,113,51,69
+offsets:0,1,53,71
+rotate:90
+chain
+bounds:1142,7,58,26
+death flash
+bounds:1297,104,361,434
+offsets:4,3,367,440
+rotate:90
+half eye
+bounds:1202,5,34,24
+offsets:2,2,39,28
+hand
+bounds:1728,25,79,39
+offsets:0,2,79,42
+hand copy
+bounds:1091,9,46,49
+offsets:0,1,49,51
+rotate:90
+head
+bounds:1865,541,121,186
+l shoulder
+bounds:1005,2,56,41
+offsets:0,1,57,42
+rotate:90
+left guy
+bounds:1733,281,143,184
+left guy highlights
+bounds:1733,101,141,178
+offsets:1,1,143,180
+left guy top arm
+bounds:1492,11,91,93
+offsets:0,0,91,94
+rotate:90
+left guy top arm highlights
+bounds:1587,15,83,87
+offsets:0,1,83,89
+leg bottom
+bounds:1876,137,142,51
+offsets:0,137,143,188
+rotate:90
+leg bottom bottom
+bounds:1089,230,131,118
+offsets:0,0,131,119
+leg top
+bounds:727,17,140,67
+offsets:0,107,152,175
+leg top bottom
+bounds:1878,323,61,145
+offsets:92,0,153,184
+mad eye
+bounds:1876,101,34,30
+offsets:2,2,38,34
+rotate:90
+minion sweat
+bounds:1193,350,15,7
+offsets:0,1,16,8
+neck
+bounds:1820,40,59,59
+normal eye
+bounds:1248,104,35,26
+offsets:2,2,40,30
+r shoulder
+bounds:1881,64,35,26
+offsets:1,2,36,28
+rotate:90
+regent death pop
+bounds:727,86,226,139
+offsets:2,6,230,151
+right guy
+bounds:1092,57,154,171
+right guy bottom arm
+bounds:1728,66,33,90
+offsets:1,0,34,90
+rotate:90
+right guy bottom arm highlights
+bounds:1248,132,30,67
+offsets:132,34,162,102
+right guy highlights
+bounds:955,60,135,165
+offsets:1,0,136,166
+right guy top arm
+bounds:1929,166,63,90
+offsets:0,0,64,90
+right guy top arm highlights
+bounds:1672,21,54,81
+offsets:1,1,55,84
+shadow
+bounds:730,350,461,108
+offsets:1,2,463,111
+sparkle 3
+bounds:1209,31,24,37
+offsets:1,1,26,39
+rotate:90
+star eye
+bounds:1248,201,35,47
+offsets:3,3,41,53
+rotate:90
+throne bottom highlights
+bounds:2,10,354,723
+offsets:0,0,355,724
+rotate:90
+throne shadows
+bounds:727,227,360,121
+throne top
+bounds:730,460,267,565
+offsets:1,0,268,565
+rotate:90
+throne top highlights
+bounds:1297,467,260,566
+offsets:0,0,314,566
+rotate:90
+throne_bottom
+bounds:2,366,361,726
+rotate:90
+top arm 1
+bounds:1222,238,69,119
+offsets:1,2,70,121
+top arm 1 flipped
+bounds:1865,470,69,119
+offsets:1,2,70,121
+rotate:90
+top arm 2
+bounds:1370,27,75,120
+offsets:0,0,75,135
+rotate:90
+top arm 2 flipped
+bounds:1248,27,75,120
+offsets:0,0,75,135
+rotate:90
+top hand 1
+bounds:955,2,56,48
+offsets:2,6,59,55
+rotate:90

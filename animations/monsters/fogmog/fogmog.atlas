@@ -1,0 +1,172 @@
+fogmog.png
+size:1413,523
+filter:Linear,Linear
+scale:0.85
+back head
+bounds:2,98,422,177
+blink 1
+bounds:943,2,113,52
+blink 1 copy
+bounds:986,56,113,52
+rotate:90
+blink 1 copy 2
+bounds:1179,159,113,52
+blink 1 copy 3
+bounds:1294,158,113,55
+bod
+bounds:486,246,275,360
+rotate:90
+bottom arm
+bounds:1192,213,100,95
+bottom finger 1
+bounds:1259,4,26,54
+rotate:90
+bottom finger 2
+bounds:426,246,29,53
+rotate:90
+bottom finger 3
+bounds:1320,2,27,40
+offsets:0,1,28,41
+bottom foot
+bounds:838,11,103,71
+bottom leg
+bounds:350,2,67,94
+offsets:0,0,67,95
+cel spore A 1
+bounds:1112,80,15,16
+offsets:1,1,17,18
+cel spore A 2
+bounds:1259,32,59,70
+offsets:1,0,60,70
+cel spore A 3
+bounds:1304,292,103,110
+offsets:0,0,103,111
+cel spore A 4
+bounds:1045,187,132,102
+offsets:1,1,134,104
+cel spore A 5
+bounds:185,10,163,86
+offsets:1,0,164,86
+cel spore A 6
+bounds:848,171,169,80
+offsets:1,1,171,81
+cel spore B 1
+bounds:1395,273,16,17
+offsets:0,1,17,18
+cel spore B 2
+bounds:1058,2,56,60
+offsets:1,1,57,62
+cel spore B 3
+bounds:2,2,94,92
+offsets:1,1,96,94
+rotate:90
+cel spore B 4
+bounds:1192,310,120,110
+offsets:1,1,122,111
+rotate:90
+cel spore B 5
+bounds:708,129,138,115
+offsets:0,1,139,117
+cel spore B 6
+bounds:563,127,143,117
+offsets:0,1,144,118
+cel spore C 1
+bounds:1294,301,7,8
+offsets:1,0,9,8
+rotate:90
+cel spore C 2
+bounds:943,56,27,26
+offsets:0,0,28,26
+cel spore C 3
+bounds:661,12,34,31
+offsets:1,1,35,33
+rotate:90
+cel spore C 4
+bounds:587,14,36,32
+offsets:0,0,37,32
+cel spore C 5
+bounds:1172,2,47,41
+offsets:1,1,48,43
+rotate:90
+cel spore C 6
+bounds:1360,104,52,46
+offsets:1,1,54,48
+rotate:90
+cel spore D 1
+bounds:838,119,8,8
+offsets:0,0,8,9
+cel spore D 2
+bounds:1129,159,26,27
+offsets:1,0,27,27
+rotate:90
+cel spore D 3
+bounds:625,14,32,34
+offsets:1,0,33,34
+rotate:90
+cel spore D 4
+bounds:548,14,32,37
+offsets:0,0,33,37
+rotate:90
+cel spore D 5
+bounds:1215,3,42,46
+offsets:0,0,43,47
+cel spore D 6
+bounds:1116,2,47,54
+rotate:90
+eyes
+bounds:1246,104,112,52
+eyes_dry
+bounds:1129,103,115,54
+eyes_lookleft
+bounds:1129,51,111,50
+head top
+bounds:2,277,482,244
+offsets:0,0,482,245
+moth_dry
+bounds:848,84,85,136
+rotate:90
+mouth
+bounds:426,25,85,120
+rotate:90
+shadow
+bounds:848,432,454,89
+offsets:1,0,455,90
+spore bits
+bounds:1349,3,35,39
+offsets:0,1,35,40
+spore bits 2
+bounds:708,15,128,112
+offsets:0,0,129,112
+spore bits 2 copy
+bounds:426,112,135,132
+offsets:1,1,136,133
+spore bits 3
+bounds:848,253,177,195
+offsets:1,0,178,196
+rotate:90
+spore cloud 1
+bounds:1040,98,87,87
+offsets:1,0,88,88
+spore cloud 2
+bounds:1304,404,117,107
+offsets:1,1,118,108
+rotate:90
+spore cloud 3
+bounds:96,2,94,87
+offsets:1,1,96,88
+rotate:90
+top arm
+bounds:1045,291,145,139
+top finger 1
+bounds:1360,56,36,46
+offsets:0,0,37,46
+top finger 2
+bounds:1040,64,32,70
+rotate:90
+top finger 3
+bounds:1320,44,38,58
+top foot
+bounds:1294,215,99,75
+top leg
+bounds:563,48,77,129
+rotate:90

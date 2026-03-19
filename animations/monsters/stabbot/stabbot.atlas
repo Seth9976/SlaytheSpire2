@@ -1,0 +1,27 @@
+stabbot.png
+size:267,107
+filter:Linear,Linear
+scale:0.15
+arm_l
+bounds:245,44,7,14
+rotate:90
+arm_r
+bounds:245,53,18,29
+bod
+bounds:87,36,69,71
+rotate:90
+bottom wing
+bounds:160,44,83,61
+ditch line
+bounds:2,15,196,14
+off
+bounds:245,84,20,21
+stabby_l
+bounds:200,4,38,36
+rotate:90
+stabby_r
+bounds:238,2,26,40
+top wing
+bounds:2,31,74,83
+offsets:45,0,119,83
+rotate:90
