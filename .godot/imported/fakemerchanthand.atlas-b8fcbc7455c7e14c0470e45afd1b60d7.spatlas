@@ -1,0 +1,1 @@
+{"atlas_data":"fakemerchanthand.png\nsize:848,671\nfilter:Linear,Linear\nscale:0.4\nfake merchant hand\nbounds:2,334,335,844\nrotate:90\nfake merchant hand shadow\nbounds:2,2,330,832\noffsets:6,15,345,854\nrotate:90\n","normal_texture_prefix":"n","source_path":"res://animations/backgrounds/fake_merchant_room/hand/fakemerchanthand.atlas","specular_texture_prefix":"s"}

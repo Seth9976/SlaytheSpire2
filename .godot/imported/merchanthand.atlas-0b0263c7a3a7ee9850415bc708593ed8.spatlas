@@ -1,0 +1,1 @@
+{"atlas_data":"merchanthand.png\nsize:1661,913\nfilter:Linear,Linear\nscale:0.6\narm\nbounds:2,2,415,1175\nrotate:90\nshadow\nbounds:2,419,492,1180\noffsets:2,0,519,1180\nrotate:90\nsleeve\nbounds:1184,395,475,516\noffsets:0,0,526,516\n","normal_texture_prefix":"n","source_path":"res://animations/backgrounds/merchant_room/hand/merchanthand.atlas","specular_texture_prefix":"s"}

@@ -1,0 +1,1 @@
+{"atlas_data":"characterselect_silent.png\nsize:2684,1206\nfilter:Linear,Linear\nscale:0.5\ncharacter\nbounds:3,3,2319,1200\nhair\nbounds:2328,810,393,353\noffsets:2,0,395,353\nrotate:90\n","normal_texture_prefix":"n","source_path":"res://animations/character_select/silent/characterselect_silent.atlas","specular_texture_prefix":"s"}

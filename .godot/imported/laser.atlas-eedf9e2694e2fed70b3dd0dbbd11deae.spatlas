@@ -1,0 +1,1 @@
+{"atlas_data":"laser.png\nsize:124,16\nfilter:Linear,Linear\nscale:0.6\nsimple_beam\nbounds:2,2,120,7\noffsets:0,3,120,13\n","normal_texture_prefix":"n","source_path":"res://animations/vfx/vfx_laser/laser.atlas","specular_texture_prefix":"s"}

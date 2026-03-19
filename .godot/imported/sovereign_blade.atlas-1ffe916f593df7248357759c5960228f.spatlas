@@ -1,0 +1,1 @@
+{"atlas_data":"sovereign_blade.png\nsize:854,417\nfilter:Linear,Linear\nscale:0.6\nblade_temp\nbounds:753,166,99,249\noffsets:3,4,108,260\nregent_temp\nbounds:2,2,413,749\nrotate:90\n","normal_texture_prefix":"n","source_path":"res://animations/vfx/vfx_sovereign_blade/sovereign_blade.atlas","specular_texture_prefix":"s"}
